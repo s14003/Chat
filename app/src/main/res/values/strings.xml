@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Chat</string>
+    <string name="connect">Connect</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="quit">Quit</string>
+    <string name="bt_error_dialog_title">Bluetoothエラー</string>
+    <string name="connecting_please_wait">接続中です \n しばらくお待ちください</string>
+    <string name="problem_at_connecting">Bluetoothの接続を確認できません</string>
+    <string name="none_paired">接続履歴のある機器はありません</string>
+    <string name="select_devices">デバイスを選択</string>
+    <string name="none_found">デバイスが見つかりません</string>
+    <string name="scanning">スキャン中</string>
+    <string name="title_paired_devices">接続履歴のあるもの</string>
+    <string name="title_other_devices">その他のデバイス</string>
+    <string name="no_pairing_Nxt">ペアリングされたデバイスがありません</string>
+    <string name="pairing_message">ペアリングしてから接続してください</string>
+    <string name="problem_at_closing">Bluetoothが接続を開始できません</string>
+    <string name="bt_error_dialog_message">接続できません</string>
+    <string name="select_device">デバイスを選択</string>
+    <string name="button_scan">デバイスをスキャン</string>
+    <string name="wait_till_bt_on">Bluetoothを有効にします</string>
+    <string name="bt_dialog_title">Clear!</string>
+    <string name="bt_dialog_message">接続出来ました</string>
+    <string name="pairing_error_message">接続に失敗しました</string>
+</resources>
